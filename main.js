@@ -1,0 +1,1 @@
+alert ("Welcome to Mahatma Gandhi project! Press OK to Contuine");
